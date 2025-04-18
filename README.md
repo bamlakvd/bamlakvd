@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Beamlak 👋  
+Aspiring Computer Engineer | Frontend Developer in Progress 🚀
 
-<!--
-**bamlakvd/bamlakvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently learning **HTML, CSS, JavaScript, and React**  
+🌱 I’m working on building clean, user-friendly websites  
+👯 I’m looking to collaborate on open source or mini projects  
+📫 Reach me at: btesfaye269@gmail.com  
+🌍 LinkedIn: [Beamlak Tesfaye](https://www.linkedin.com/in/beamlak-tesfaye-0a02ba294/)
 
-Here are some ideas to get you started:
+### ⚡ Skills
+- 💻 Languages: C++, Python, Dart
+- 🧰 Tools: Git, GitHub, VS Code, Flutter
+- 🎨 Learning: HTML5, CSS3, JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional GitHub Stats section -->
+![Beamlak's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamlakvd&show_icons=true&theme=radical)
