@@ -4,7 +4,7 @@ Aspiring Computer Engineer | Frontend Developer in Progress 🚀
 🔭 I’m currently learning **HTML, CSS, JavaScript, and React**  
 🌱 I’m working on building clean, user-friendly websites  
 👯 I’m looking to collaborate on open source or mini projects  
-📫 Reach me at: btesfaye269@gmail.com  
+📫 Reach me at: [Email](btesfaye269@gmail.com)  
 🌍 LinkedIn: [Beamlak Tesfaye](https://www.linkedin.com/in/beamlak-tesfaye-0a02ba294/)
 
 ### ⚡ Skills
